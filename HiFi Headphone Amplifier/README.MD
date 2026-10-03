@@ -25,6 +25,3 @@ In this directory there will be brief explanation and headphone amplifier design
 # PCB Screenshots (VFB/CFB Hybrid)
 ![CFB_F](./HiFi Headphone Amplifier/IMAGE/AMP_CFB_F.jpg)
 
-
-# PCB Screenshots (VFB/CFB Hybrid)  
-![VFB/CFB HPA](https://imgur.com/gallery/tpa6120a2-Zh2JqNF)
