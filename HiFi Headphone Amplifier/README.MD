@@ -23,5 +23,5 @@ In this directory there will be brief explanation and headphone amplifier design
 * TPA6120A2 dissipates a lot of heat, so it requires to be connected directly to the ground plane. Ground plane also heavily improves amplifier THD and noise by eliminating inductance and parasitic loops, which are the main issue on high speed analog or digital circuits.
 # PCB Screenshots (Two-Stage VFB)  
 # PCB Screenshots (VFB/CFB Hybrid)
-![CFB_F](HiFi Headphone Amplifier/IMAGE/AMP_CFB_F.jpg)
+![CFB_F]![CFB_F](HiFi%20Headphone%20Amplifier/IMAGE/AMP_CFB_F.jpg))
 
