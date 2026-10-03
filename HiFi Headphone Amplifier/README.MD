@@ -25,6 +25,8 @@ In this directory there will be brief explanation and headphone amplifier design
 ![CFB_F](./IMAGE/AMB_F.jpg)
 ![CFB_F](./IMAGE/AMB_R.png)
 # PCB Screenshots (VFB/CFB Hybrid)
-![CFB_F](./IMAGE/AMP_CFB_F.jpg)
-![CFB_F](./IMAGE/AMP_CFB_R.jpg)
+<p align="center">
+  <img src="./IMAGE/AMP_CFB_F.jpg" alt="CFB_F Front" width="400">
+  <img src="./IMAGE/AMP_CFB_R.jpg" alt="CFB_F Rear" width="400">
+</p>
 
