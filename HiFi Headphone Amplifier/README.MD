@@ -21,7 +21,10 @@ In this directory there will be brief explanation and headphone amplifier design
 * It uses two separate stages: OPA1602 as a gain section and TPA6120A2 are configured as unity gain with local NFB.  
 * The main downside of TPA6120A2 is that it requires a 10 ohm isolation resistor which causes plenty of modern low-impedance IEM/headphones to change its frequency response, but it could be mitigated by using ferrite beads that act as a near-zero inductance and near zero resistance cable at audio frequency that bypass 10 ohm resistor but act as lossy elements that suppresses EMI while being isolated safely by the 10 ohm resistor.  
 * TPA6120A2 dissipates a lot of heat, so it requires to be connected directly to the ground plane. Ground plane also heavily improves amplifier THD and noise by eliminating inductance and parasitic loops, which are the main issue on high speed analog or digital circuits.
-# PCB Screenshots (Two-Stage VFB)  
+# PCB Screenshots (Two-Stage VFB)
+![CFB_F](./IMAGE/AMB_F.jpg)
+![CFB_F](./IMAGE/AMB_R.jpg)
 # PCB Screenshots (VFB/CFB Hybrid)
 ![CFB_F](./IMAGE/AMP_CFB_F.jpg)
+![CFB_F](./IMAGE/AMP_CFB_R.jpg)
 
