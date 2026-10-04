@@ -18,8 +18,7 @@ I am a Mid-Level embedded systems engineer with experience in designing and fabr
 
 * Portable Headphone Amplifier
 * Regulated Capacitance Multipler
-* PCM5102 Digital to Analog Converter
-* PCM1792 Digital to Analog Converter
+* PCM5102/PCM1792 Digital to Analog Converter
 * CMX90A007 + CMX90A009 Cascading RF Amplifier
 * Raspberry Pi Compute Module 4 Mother Board
 
