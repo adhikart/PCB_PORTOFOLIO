@@ -21,11 +21,11 @@ For this reason PCM1794 are choseen for this revision while chip selection are j
 ## Design Approach (PCM5102)
 ## Design Approach (PCM1794)
 <p align="center">
-  <img src="./IMAGE/PCM1795_DAC.jpg" alt="CFB_F Front" width="400">
+  <img src="./IMAGE/PCM1794_DAC.jpg" alt="CFB_F Front" width="400">
 </p>
 
 <p align="center">
-  <img src="./IMAGE/PCM1795_PSU.jpg" alt="CFB_F Front" width="400">
+  <img src="./IMAGE/PCM1794_PSU.jpg" alt="CFB_F Front" width="400">
 </p>
 
 ## PCB Screenshots  (PCM5102)
