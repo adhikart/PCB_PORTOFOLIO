@@ -29,6 +29,9 @@ For this reason PCM1794 are choseen for this revision while chip selection are j
 </p>
 
 ## PCB Screenshots  (PCM5102)
+<p align="center">
+  <img src="./IMAGE/PCM5102.png" alt="CFB_F Front" width="400">
+</p>
 ## PCB Screenshots (PCM1794)
 <p align="center">
   <img src="./IMAGE/DAC_3D.jpg" alt="CFB_F Front" width="400">
