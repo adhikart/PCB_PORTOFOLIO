@@ -17,8 +17,10 @@ Emerging from the CMX90A009, the network uses series-inductor and shunt-capacito
 While the simulation S-parameter response curves spanning from 100 MHz to 400 MHz demonstrate a highly tuned narrowband response centered precisely at 160 MHz. Both the input (S{11}) and output (S22) return loss plots reveal deep reflection notches dropping below -15 dB at 160 MHz, indicating excellent impedance matching and minimal signal reflection at the target frequency. Furthermore, the forward transmission coefficient (S21) exhibits a strong bandpass gain peaking at approximately +12 dB to +14 dB within the passband, while rolling off steeply outside this region to suppress out-of-band signals and harmonics. But the real world value still can be change and tuned as the real world value for component are affected by the PCB trace,stack up and general layout itself.
 
 
-## PCB Screenshots  
+## PCB Screenshots and Picture
 <p align="center">
   <img src="./IMAGE/RF_AMP_SC.jpg" alt="CFB_F Front" width="400">
+  <img src="./IMAGE/image_IRL.png" alt="CFB_F Front" width="400">
+  <img src="./IMAGE/image_PCB.png" alt="CFB_F Front" width="400">
 </p>
 
